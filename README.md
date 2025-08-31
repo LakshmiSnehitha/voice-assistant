@@ -1,6 +1,6 @@
 # 🎤 Voice Assistant (Python)
 
-This is a simple **voice assistant** built with Python.  
+This is a simple **voice assistant** built with Python.
 It can respond to your voice commands, open websites, and perform basic tasks like speaking responses.
 
 ---
